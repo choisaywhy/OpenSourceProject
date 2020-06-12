@@ -1,65 +1,65 @@
-INSERT INTO `STORE` (`storeID`, `storeName`, `storeTime`, `categoryID`) VALUES ('STORE_2', '대우축산', '09:00~20:00', 'CATEGORY_1');
+
+
+INSERT INTO `STORE` VALUES ('STORE_1', '대우축산', '09:00~20:00', 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_1.PNG');
+INSERT INTO `STORE` VALUES ('STORE_2', '돼지상회', '09:00~20:00', 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_2.PNG');
+insert into STORE values ('STORE_3', "시민닭집", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_3.PNG');
+insert into STORE values ('STORE_4', "유천상회", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_4.PNG');
+insert into STORE values ('STORE_5', "토종누렁이한우종가", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_5.PNG');
+insert into STORE values ('STORE_6', "농심축산", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_6.PNG');
+insert into STORE values ('STORE_7', "꼬꼬와오리나라", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_7.PNG');
+insert into STORE values ('STORE_8', "장군축산", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_8.PNG');
+insert into STORE values ('STORE_9', "하나로축산", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_9.PNG');
+insert into STORE values ('STORE_10', "성은유통", "09:00~20:00", 'CATEGORY_1','sehwa98.dothome.co.kr/images/STORE_10.PNG');
 
 
 
-insert into STORE values ('STORE_3', "시민닭집", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_4', "유천상회", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_5', "토종누렁이한우종가", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_6', "농심축산", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_7', "꼬꼬와오리나라", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_8', "장군축산", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_9', "하나로축산", "09:00~20:00", 'CATEGORY_1');
-insert into STORE values ('STORE_10', "성은유통", "09:00~20:00", 'CATEGORY_1');
+
+insert into STORE values ('STORE_11', "광명민물수산", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_11.jpg');
+insert into STORE values ('STORE_12', "바다맛수산", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_12.jpg');
+insert into STORE values ('STORE_13', "세명수산", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_13.jpg');
+insert into STORE values ('STORE_14', "정진상회", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_14.jpg');
+insert into STORE values ('STORE_15', "총각네", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_15.jpg');
+insert into STORE values ('STORE_16', "홍성해물", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_16.jpg');
+insert into STORE values ('STORE_17', "소래포구", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_17.jpg');
+insert into STORE values ('STORE_18', "완도네해물", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_18.jpg');
+insert into STORE values ('STORE_19', "영진젓갈", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_11.jpg');
+insert into STORE values ('STORE_20', "성진민물", "09:00~20:00", 'CATEGORY_2','sehwa98.dothome.co.kr/images/STORE_12.jpg');
 
 
 
-
-insert into STORE values ('STORE_11', "광명민물수산", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_12', "바다맛수산", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_13', "세명수산", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_14', "정진상회", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_15', "총각네", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_16', "홍성해물", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_17', "소래포구", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_18', "완도네해물", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_19', "영진젓갈", "09:00~20:00", 'CATEGORY_2');
-insert into STORE values ('STORE_20', "성진민물", "09:00~20:00", 'CATEGORY_2');
-
+insert into STORE values ('STORE_21', "바다향기", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_21.PNG');
+insert into STORE values ('STORE_22', "구천상회", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_22.PNG');
+insert into STORE values ('STORE_23', "달인광천김", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_23.PNG');
+insert into STORE values ('STORE_24', "미래건어물", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_24.PNG');
+insert into STORE values ('STORE_25', "창수네건어물", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_25.PNG');
+insert into STORE values ('STORE_26', "주신푸드", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_26.PNG');
+insert into STORE values ('STORE_27', "쌍둥이건어물", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_27.PNG');
+insert into STORE values ('STORE_28', "광명푸드", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_28.PNG');
+insert into STORE values ('STORE_29', "남해김집", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_29.PNG');
+insert into STORE values ('STORE_30', "건어물상회", "09:00~20:00", 'CATEGORY_3','sehwa98.dothome.co.kr/images/STORE_30.PNG');
 
 
-insert into STORE values ('STORE_21', "바다향기", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_22', "구천상회", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_23', "달인광천김", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_24', "미래건어물", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_25', "창수네건어물", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_26', "주신푸드", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_27', "쌍둥이건어물", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_28', "광명푸드", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_29', "남해김집", "09:00~20:00", 'CATEGORY_3');
-insert into STORE values ('STORE_30', "건어물상회", "09:00~20:00", 'CATEGORY_3');
+insert into STORE values ('STORE_31', "대성상회", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_31.jpg');
+insert into STORE values ('STORE_32', "뚝배기반찬", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_32.jpg');
+insert into STORE values ('STORE_33', "은영야채", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_33.jpg');
+insert into STORE values ('STORE_34', "세명과일", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_34.jpg');
+insert into STORE values ('STORE_35', "원앙청과", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_35.jpg');
+insert into STORE values ('STORE_36', "안심야채", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_36.jpg');
+insert into STORE values ('STORE_37', "우리농산물", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_37.jpg');
+insert into STORE values ('STORE_38', "군산상회", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_38.jpg');
+insert into STORE values ('STORE_39', "일번청과", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_39.jpg');
+insert into STORE values ('STORE_40', "영수과일", "09:00~20:00", 'CATEGORY_4','sehwa98.dothome.co.kr/images/STORE_31.jpg');
 
-
-insert into STORE values ('STORE_31', "대성상회", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_32', "뚝배기반찬", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_33', "은영야채", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_34', "세명과일", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_35', "원앙청과", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_36', "안심야채", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_37', "우리농산물", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_38', "군산상회", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_39', "일번청과", "09:00~20:00", 'CATEGORY_4');
-insert into STORE values ('STORE_40', "영수과일", "09:00~20:00", 'CATEGORY_4');
-
-insert into STORE values ('STORE_41', "오뚜기견과", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_42', "중앙견과", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_43', "황금씨앗", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_44', "화영식품", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_45', "불로건강원", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_46', "옥설선식", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_47', "현미와누룽지", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_48', "설악건강마을", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_49', "형제견과", "09:00~20:00", 'CATEGORY_5');
-insert into STORE values ('STORE_50', "정세식품", "09:00~20:00", 'CATEGORY_5');
+insert into STORE values ('STORE_41', "오뚜기견과", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_41.jpg');
+insert into STORE values ('STORE_42', "중앙견과", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_42.jpg');
+insert into STORE values ('STORE_43', "황금씨앗", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_43.jpg');
+insert into STORE values ('STORE_44', "화영식품", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_44.jpg');
+insert into STORE values ('STORE_45', "불로건강원", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_45.jpg');
+insert into STORE values ('STORE_46', "옥설선식", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_46.jpg');
+insert into STORE values ('STORE_47', "현미와누룽지", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_47.jpg');
+insert into STORE values ('STORE_48', "설악건강마을", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_48.jpg');
+insert into STORE values ('STORE_49', "형제견과", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_41.jpg');
+insert into STORE values ('STORE_50', "정세식품", "09:00~20:00", 'CATEGORY_5','sehwa98.dothome.co.kr/images/STORE_42.jpg');
 
 insert into STORE values ('STORE_51', "광명할머니왕족발", "09:00~20:00", 'CATEGORY_6');
 insert into STORE values ('STORE_52', "남매분식", "09:00~20:00", 'CATEGORY_6');
